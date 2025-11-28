@@ -1,1 +1,1 @@
-https://www.codewars.com/users/oktabrov/badges/large
+![Codewars](https://www.codewars.com/users/oktabrov/badges/large)
